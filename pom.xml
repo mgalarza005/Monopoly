@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>iso2</groupId>
-  <artifactId>Monopoly</artifactId>
+  <groupId>Monopoly123</groupId>
+  <artifactId>Monopoly123</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+ 
 
-  <name>Monopoly</name>
+  <name>Monopoly123</name>
   <url>http://maven.apache.org</url>
 <build>
     <plugins>
@@ -35,10 +35,11 @@
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
-      <sonar.projectKey>MonopolySept8</sonar.projectKey>   
-      <sonar.organization>jononekin</sonar.organization>
+      
+    
+      <sonar.organization>mgalarza005</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>  
-      <sonar.login>81a08424362a8029f028324821a72c8f207530ae</sonar.login> 
+      <sonar.login>83fd9fca528cda13a102fcacf624dc274a1d4a8b</sonar.login> 
     </properties>
 
   <dependencies>
